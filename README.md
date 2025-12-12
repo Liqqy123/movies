@@ -10,4 +10,4 @@
 
 Убедитесь, что у вас установлен Python версии 3.x.
 Клонируйте репозиторий на ваш компьютер:
-git clone git@github.com:Liqqy123/movies.git
+git clone https://github.com/Liqqy123/movies.git
